@@ -9,6 +9,6 @@ In RStudio setwd("C:/Users/yourname/Documents/R/Analysis/UCI HAR Dataset/") and 
 
 The R script will read the datasets and write several files : testData, testData_act, testData_sub, trainData, trainData_act, trainData_sub,features,bigdata(the merged data file of 10299 observations of 563 variables), tidy (a second, independent tidy data set with the average of each variable for each activity and each subject)
 
-At the end the script will wrirte a tidy.txt file in your workinf directory
+At the end the script will write a tidy.txt file in your workinf directory
 
 
